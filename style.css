@@ -1,0 +1,78 @@
+
+body{
+background-image:url("ballons.jpg");
+display:block;
+max-width: 100%;
+max-height:100%;
+}
+
+.container{
+width:960px;
+
+margin:auto auto;
+background-color:	#333385;
+
+
+
+}
+
+h1.main{
+
+color:#FF6600;
+font-size:60px;
+font-family: indie flower;
+margin-left:200px;
+}
+
+.top-links{
+font-size:25px;
+position:relative;
+margin-left: 700px;
+margin-top: 10px;
+
+}
+.top-links a{
+color:#B24700;
+}
+
+.info{
+font-family: indie flower;
+color:#FFFFFF;
+font-size:30px;
+margin:20px  20px;
+
+}
+
+h2{
+color:#B2B200;
+padding-left:30px;
+}
+
+
+img{
+max-width:40%;
+max-height:60%;
+padding-left:50px;
+padding-bottom:10px;
+}
+
+.footer{
+background-color:#333385;
+height:100%;
+
+
+}
+
+.footer ul li{
+color:yellow;
+padding-top:10px;
+padding-left: 40px;
+padding-bottom:20px;
+
+
+}
+.footer ul li a{
+color:yellow;
+}
+
+
