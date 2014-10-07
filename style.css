@@ -1,4 +1,16 @@
 
+
+
+html{
+
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-moz-text-size-adjust: 100%;
+text-size-adjust: 100%;
+}
+
+
+
 body{
 background-image:url("ballons.jpg");
 display:block;
@@ -8,9 +20,9 @@ max-height:100%;
 
 .container{
 width:960px;
-
 margin:auto auto;
 background-color:	#333385;
+
 
 
 
@@ -19,13 +31,13 @@ background-color:	#333385;
 h1.main{
 
 color:#FF6600;
-font-size:60px;
+font-size:3.750em;
 font-family: indie flower;
 margin-left:200px;
 }
 
 .top-links{
-font-size:25px;
+font-size:1.563em;
 position:relative;
 margin-left: 700px;
 margin-top: 10px;
@@ -37,8 +49,9 @@ color:#B24700;
 
 .info{
 font-family: indie flower;
+
 color:#FFFFFF;
-font-size:30px;
+font-size:1.875em;
 margin:20px  20px;
 
 }
