@@ -1,16 +1,6 @@
 
 
 
-html{
-
--webkit-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--moz-text-size-adjust: 100%;
-text-size-adjust: 100%;
-}
-
-
-
 body{
 background-image:url("ballons.jpg");
 display:block;
@@ -18,69 +8,96 @@ max-width: 100%;
 max-height:100%;
 }
 
-.container{
-width:960px;
-margin:auto auto;
-background-color:	#333385;
 
 
 
 
-}
+
+
+
 
 h1.main{
 
 color:#FF6600;
+
 font-size:3.750em;
 font-family: indie flower;
-margin-left:200px;
+margin-left:10%;
+
+}
+
+.main{
+color:#FF6600;
+padding-left:5%;
+font-size:3.750em;
+position:relative;
+
 }
 
 .top-links{
 font-size:1.563em;
 position:relative;
-margin-left: 700px;
-margin-top: 10px;
+padding-left:5%;
+margin-top: 5%;
+
 
 }
 .top-links a{
 color:#B24700;
 }
 
+div.opa{
+width: auto;
+height: auto;
+margin: 30px 50px;
+background-color: white;
+
+opacity: 0.9;
+padding-left:0.625em;
+
+}
 .info{
 font-family: indie flower;
 
-color:#FFFFFF;
+background-position:center;
+color:red;
 font-size:1.875em;
-margin:20px  20px;
+margin:1.250em  1.250em;
+
+
 
 }
 
 h2{
 color:#B2B200;
-padding-left:30px;
+padding-left:1.875em;
 }
 
 
 img{
 max-width:40%;
 max-height:60%;
-padding-left:50px;
-padding-bottom:10px;
+padding-left:3.125em;
+padding-bottom:0.625em;
+
+
 }
 
 .footer{
 background-color:#333385;
 height:100%;
+opacity:.9;
+border:yellow solid;
 
 
 }
 
 .footer ul li{
 color:yellow;
-padding-top:10px;
-padding-left: 40px;
-padding-bottom:20px;
+padding-top:0.625em;
+padding-left: 2.500em;
+padding-bottom:1.250em;
+
 
 
 }
