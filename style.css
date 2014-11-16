@@ -70,6 +70,8 @@ padding-right:3em;
   
 img.pic{
     display: block;
+    width:300px;
+    height:300px;
     margin-left: auto;
     margin-right: auto;
 
@@ -125,6 +127,7 @@ color:		#FF8080;
 header{
 
 background-color:			#A31919;
+max-width:100%;
  padding-top:4em;
  padding-bottom:1em;
 
@@ -137,7 +140,17 @@ header ul li{
     text-align:center;
   
     }
+    img.pic{
+    width:250px;
+    height:250px;
+   
 
+    }
+    
+footer{
+
+padding-bottom:30%;
+}
 }
 @media screen and (min-width: 1000px) {
 
