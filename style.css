@@ -10,7 +10,7 @@ background-color:#E4E4E4;
 
 header{
 
-background-color:black;
+background-color:	#521400;
  padding-top:4em;
  padding-bottom:1em;
 
@@ -46,6 +46,12 @@ footer a:hover{
 color:		#FF8080;
 
 }
+
+
+
+
+
+
 header ul li{
    
    float:right;
@@ -111,6 +117,43 @@ padding-right:3em;
 }
 .language a:hover{
 color:		#FF8080;
+
+}
+
+@media screen and (max-width: 25em){
+
+header{
+
+background-color:			#A31919;
+ padding-top:4em;
+ padding-bottom:1em;
+
+}
+
+header ul li{
+   
+   float:right;
+   list-style-type:none;
+    text-align:center;
+  
+    }
+
+}
+@media screen and (min-width: 1000px) {
+
+header{
+
+background-color:			black;
+ padding-top:4em;
+ padding-bottom:1em;
+
+}
+
+
+
+
+
+
 
 }
 
