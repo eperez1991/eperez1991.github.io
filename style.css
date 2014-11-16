@@ -44,14 +44,19 @@ background-color:red;
 margin:0em;
 padding:.5em;
 
-
- 
  }
 .subheader ul li {
 display:inline;
 }
+
 .subheader ul li a{
 color:white;
+padding-left:3em;
+padding-right:3em;
+
+}
+.subheader a:hover{
+color:black;
 
 }
     
