@@ -3,6 +3,7 @@ html{
 background-color:#E4E4E4;
 
 }
+
 header{
 
 background-color:black;
@@ -16,10 +17,10 @@ padding-bottom:100%;
 
 
 }
-
 header ul li{
    
    float:right;
+   list-style-type:none;
    
     }
 header ul li a{
@@ -27,15 +28,29 @@ color:white;
 
 padding-right:3em;
 
-}
 
-    
-    
+}
+  
 img.pic{
     display: block;
     margin-left: auto;
     margin-right: auto;
 
     }
+     
+ .subheader ul{
+text-align:center;
+background-color:red;
+padding:.5em;
 
+
+ 
+ }
+.subheader ul li {
+display:inline;
+}
+.subheader ul li a{
+color:white;
+
+}
     
