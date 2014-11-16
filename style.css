@@ -11,6 +11,13 @@ background-color:black;
  padding-bottom:1em;
 
 }
+h1{
+color:black;
+text-align:center;
+font-family:rokkit;
+
+
+}
 footer{
 background-color:	#C1C1C1;
 padding-bottom:100%;
@@ -21,12 +28,14 @@ header ul li{
    
    float:right;
    list-style-type:none;
+
    
     }
 header ul li a{
 color:white;
 
 padding-right:3em;
+   font-family:rokkit;
 
 
 }
@@ -40,7 +49,7 @@ img.pic{
      
  .subheader ul{
 text-align:center;
-background-color:red;
+background-color:	#333333;
 margin:0em;
 padding:.5em;
 
@@ -53,10 +62,35 @@ display:inline;
 color:white;
 padding-left:3em;
 padding-right:3em;
-
+   font-family:rokkit;
 }
 .subheader a:hover{
-color:black;
+color:		#FF8080;
 
 }
+
+.language ul{
+text-align:center;
+background-color:#4D4D4D;
+margin:0em;
+padding:.5em;
+}
+
+.language ul li {
+display:inline;
+}
+
+.language ul li a{
+color:white;
+padding-left:3em;
+padding-right:3em;
+   font-family:rokkit;
+}
+.language a:hover{
+color:		#FF8080;
+
+}
+
+
+
     
