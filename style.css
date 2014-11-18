@@ -29,19 +29,18 @@ padding-top:1em;
 
 
 }
-footer p{
 
-padding-left:2em;
-font-family:rokkit;
-
-}
 footer a{
 color:black;
-padding-left:2em;
+font-size:1.5em;
 font-family:rokkit;
 
 }
+footer ul li{
+font-size:1em;
+list-style-type:none;
 
+}
 footer a:hover{
 color:		#FF8080;
 
@@ -134,14 +133,12 @@ padding-right:5em;
 text-align:center;
 
 }
-ul li{
+.things ul li{
 font-family:rokkit;
 text-align:justify;
+font-size:1.5em;
 list-style-type:none;
 text-align:center;
-
-
-
 }
 
 @media screen and (max-width: 25em){
