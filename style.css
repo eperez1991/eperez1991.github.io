@@ -181,10 +181,13 @@ padding-right:.5em;
 text-align:justify;
 
 }
-   ul li{
+  .things ul li{
 font-family:rokkit;
-font-size:1em;
-list-style-type:none;
+font-size:1.5em;
+
+padding-right:.5em;
+
+list-style-type:circle;
 text-align:justify;
 
 
