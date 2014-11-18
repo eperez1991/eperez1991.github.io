@@ -121,6 +121,29 @@ padding-right:3em;
 color:		#FF8080;
 
 }
+h2{
+text-align:center;
+font-family:rokkit;
+
+}
+p{
+font-family:rokkit;
+font-size:1.5em;
+padding-left:5em;
+padding-right:5em;
+text-align:center;
+
+}
+ul li{
+font-family:rokkit;
+text-align:justify;
+font-size:1.5em;
+list-style-type:none;
+text-align:center;
+
+
+
+}
 
 @media screen and (max-width: 25em){
 
