@@ -19,6 +19,7 @@ h1{
 color:black;
 text-align:center;
 font-family:rokkit;
+text-decoration:underline;
 
 
 }
@@ -69,6 +70,10 @@ color:white;
 padding-right:3em;
    font-family:rokkit;
 
+
+}
+header a:hover{
+color:		#FF8080;
 
 }
   
@@ -129,6 +134,8 @@ color:		#FF8080;
 }
 h2{
 text-align:center;
+color:black;
+text-decoration:underline;
 font-family:rokkit;
 
 }
@@ -137,12 +144,11 @@ margin-left:auto;
 margin-right:auto;
 font-size:1.5em;
 padding-bottom:1em;
-width:35em;
+width:50%;
 font-family:rokkit;
+line-height:200%;
 
 }
-
-
 
 
 
