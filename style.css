@@ -35,10 +35,12 @@ color:black;
 font-size:1.5em;
 font-family:rokkit;
 
+
 }
 footer ul li{
 font-size:1em;
 list-style-type:none;
+
 
 }
 footer a:hover{
@@ -55,12 +57,13 @@ header ul li{
    
    float:right;
    list-style-type:none;
+  
 
   
     }
 header ul li a{
 color:white;
-
+ text-decoration:none;
 padding-right:3em;
    font-family:rokkit;
 
@@ -93,6 +96,7 @@ padding-left:3em;
 padding-right:3em;
 font-size:1.5em;
    font-family:rokkit;
+    
 }
 .subheader a:hover{
 color:		#FF8080;
@@ -112,6 +116,7 @@ display:inline;
 
 .language ul li a{
 color:white;
+ 
 padding-left:3em;
 padding-right:3em;
    font-family:rokkit;
