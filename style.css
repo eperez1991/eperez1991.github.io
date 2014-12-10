@@ -287,13 +287,11 @@ width:30%;
 
 }
 .data{
-color:Black;
 margin-left:auto;
 margin-right:auto;
-list-style-type:none;
-font-size:1em;
+font-size:1.5em;
 padding-bottom:1em;
-width:30%;
+width:90%;
 font-family:rokkit;
 }
 .data ul li {
