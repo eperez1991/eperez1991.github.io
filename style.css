@@ -202,11 +202,11 @@ list-style-type:none;
 color:Grey;
 margin-left:auto;
 margin-right:auto;
-list-style-type:none;
 font-size:1.5em;
 padding-bottom:1em;
-width:250%;
+width:50%;
 font-family:rokkit;
+line-height:200%;
 }
 
 @media screen and (min-width: 200px) and (max-width: 768px){
