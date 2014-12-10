@@ -167,7 +167,7 @@ font-family:rokkit;
 margin:0em;
 }
 .posts{
-color:red;
+color:blue;
 list-style-type:none;
 font-family:rokkit;
 margin-left:auto;
@@ -175,6 +175,7 @@ margin-right:auto;
 font-size:1.5em;
 padding-bottom:1em;
 width:50%;
+float:left;
 
 }
 .data{
