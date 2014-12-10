@@ -187,6 +187,9 @@ padding-bottom:1em;
 width:50%;
 font-family:rokkit;
 }
+.data ul li {
+list-style-type:none;
+}
 .photo{
   display: block;
     width:300px;
