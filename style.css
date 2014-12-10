@@ -16,10 +16,10 @@ background-color:	black;
 
 }
 h1{
-color:black;
+color:white;
 text-align:center;
 font-family:rokkit;
-text-decoration:underline;
+text-decoration:none;
 
 
 }
@@ -135,7 +135,7 @@ color:		#FF8080;
 h2{
 text-align:center;
 color:black;
-text-decoration:none;
+text-decoration:underline;
 font-family:rokkit;
 
 }
@@ -163,7 +163,7 @@ font-family:rokkit;
 }
 
 .header{
-background-color:	#598330;
+background-color:		#666652;
 font-family:rokkit;
 margin:0em;
 }
