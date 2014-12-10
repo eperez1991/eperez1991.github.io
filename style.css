@@ -269,5 +269,55 @@ padding-bottom:1em;
 padding-top:2em;
 text-align:center;
 }
+.header{
+background-color:			#D68533;
+font-family:rokkit;
+margin:0em;
+}
+.posts{
+color:black;
+list-style-type:none;
+font-family:rokkit;
+margin-left:auto;
+margin-right:auto;
+font-size:1em;
 
+width:30%;
+
+
+}
+.data{
+color:Black;
+margin-left:auto;
+margin-right:auto;
+list-style-type:none;
+font-size:1em;
+padding-bottom:1em;
+width:30%;
+font-family:rokkit;
+}
+.data ul li {
+list-style-type:none;
+}
+.photo{
+  display: block;
+    width:150px;
+    height:150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom:2em;
+
+
+}
+.text{
+color:Grey;
+margin-left:auto;
+margin-right:auto;
+width:50%;
+font-size:1em;
+padding-bottom:1em;
+
+font-family:rokkit;
+
+}
 
