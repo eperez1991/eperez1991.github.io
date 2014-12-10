@@ -164,6 +164,7 @@ font-family:rokkit;
 .header{
 background-color:	#598330;
 font-family:rokkit;
+margin:0em;
 }
 .posts{
 color:red;
@@ -184,6 +185,24 @@ font-size:1.5em;
 padding-bottom:1em;
 width:50%;
 font-family:rokkit;
+}
+.photo{
+  display: block;
+    width:300px;
+    height:300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.description{
+color:yellow;
+list-style-type:none;
+font-family:rokkit;
+margin-left:auto;
+margin-right:auto;
+font-size:1.5em;
+padding-bottom:1em;
+width:50%;
 }
 @media screen and (min-width: 200px) and (max-width: 768px){
 
