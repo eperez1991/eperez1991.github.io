@@ -282,7 +282,7 @@ margin-left:auto;
 margin-right:auto;
 font-size:1em;
 
-
+width:30%;
 
 
 }
@@ -305,13 +305,5 @@ img.photo{
     padding-bottom:2em;
 
 
-}
-.text{
-margin-left:auto;
-margin-right:auto;
-font-size:1.5em;
-padding-bottom:1em;
-
-font-family:rokkit;
 }
 
