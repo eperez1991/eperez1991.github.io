@@ -163,10 +163,12 @@ font-family:rokkit;
 }
 .header{
 background-color:	#598330;
+font-family:rokkit;
 }
 .posts{
 color:red;
 list-style-type:none;
+font-family:rokkit;
 }
 @media screen and (min-width: 200px) and (max-width: 768px){
 
