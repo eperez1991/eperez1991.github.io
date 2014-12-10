@@ -190,14 +190,7 @@ font-family:rokkit;
 .data ul li {
 list-style-type:none;
 }
-.photo{
-  display: block;
-    width:100px;
-    height:100px;
-    margin-left: auto;
-    margin-right: auto;
 
-}
 .text{
 color:Grey;
 margin-left:auto;
