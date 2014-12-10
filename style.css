@@ -10,7 +10,7 @@ background-color:#E4E4E4;
 
 header{
 
-background-color:	black;
+background-color:	blue;
  padding-top:4em;
  padding-bottom:1em;
 
@@ -161,7 +161,9 @@ padding-bottom:1em;
 width:50%;
 font-family:rokkit;
 }
-
+.posts{
+color:red;
+}
 @media screen and (min-width: 200px) and (max-width: 768px){
 
 header{
@@ -215,3 +217,5 @@ padding-bottom:1em;
 padding-top:2em;
 text-align:center;
 }
+
+
