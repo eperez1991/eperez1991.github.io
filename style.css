@@ -10,7 +10,7 @@ background-color:#E4E4E4;
 
 header{
 
-background-color:	blue;
+background-color:	black;
  padding-top:4em;
  padding-bottom:1em;
 
@@ -160,6 +160,9 @@ font-size:1.5em;
 padding-bottom:1em;
 width:50%;
 font-family:rokkit;
+}
+.header{
+background-color:orange;
 }
 .posts{
 color:red;
