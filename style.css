@@ -274,18 +274,7 @@ background-color:			#D68533;
 font-family:rokkit;
 margin:0em;
 }
-.posts{
-color:black;
-list-style-type:none;
-font-family:rokkit;
-margin-left:auto;
-margin-right:auto;
-font-size:1em;
 
-width:30%;
-
-
-}
 .data{
 
 font-size:1.5em;
@@ -296,7 +285,16 @@ font-family:rokkit;
 .data ul li {
 list-style-type:none;
 }
+img.photo{
+  display: inline;
+    width:150px;
+    height:150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom:2em;
 
+
+}
 .text{
 margin-left:auto;
 margin-right:auto;
