@@ -169,6 +169,21 @@ font-family:rokkit;
 color:red;
 list-style-type:none;
 font-family:rokkit;
+margin-left:auto;
+margin-right:auto;
+font-size:1.5em;
+padding-bottom:1em;
+width:50%;
+
+}
+.data{
+color:Black;
+margin-left:auto;
+margin-right:auto;
+font-size:1.5em;
+padding-bottom:1em;
+width:50%;
+font-family:rokkit;
 }
 @media screen and (min-width: 200px) and (max-width: 768px){
 
