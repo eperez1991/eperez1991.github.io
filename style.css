@@ -309,5 +309,10 @@ width:150px;
 height:150px;
 }
 .data ul li a{
-color:yellow;
+color:black;
+list-style-type:none;
+font-family:rokkit;
+margin-left:auto;
+margin-right:auto;
+font-size:1em;
 }
