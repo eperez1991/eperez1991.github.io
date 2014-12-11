@@ -308,15 +308,7 @@ img{
 width:150px;
 height:150px;
 }
-.data ul li a{
-color:black;
-list-style-type:none;
-font-family:rokkit;
-margin-left:0em;
-margin-right:0em;
-font-size:1em;
-}
-tagged{
+.data{
 color:black;
 list-style-type:none;
 font-family:rokkit;
@@ -324,4 +316,12 @@ margin-left:0em;
 margin-right:0em;
 font-size:1em;
 
+}
+.data ul li a{
+color:black;
+list-style-type:none;
+font-family:rokkit;
+margin-left:0em;
+margin-right:0em;
+font-size:1em;
 }
