@@ -213,7 +213,12 @@ padding-bottom:1em;
 font-family:rokkit;
 
 }
-
+.data{
+color:black;
+}
+.data ul li a{
+color:black;
+}
 
 
 @media screen and (min-width: 200px) and (max-width: 768px){
